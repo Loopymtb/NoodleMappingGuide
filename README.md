@@ -11,7 +11,7 @@ This Pack will also help you get a better understanding of the:
 * [Heck Docs](https://github.com/Aeroluna/Heck/wiki)
 * [Remapper Docs](https://github.com/Swifter1243/ReMapper/blob/master/examples.md)
 
-__For any help or issues found feel free to DM me Loopymtb#7958__
+__For any help with Noodle or Mapping issues please DM `Loopymtb#7958` or Join the noodle extensions [discord server](https://discord.gg/E2vQaBbYem).__
 ___
 
 To start with this guild please go to the wiki found [here](https://github.com/Loopymtb/NoodleMappingGuild/wiki) <----
