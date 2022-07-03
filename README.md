@@ -12,6 +12,5 @@ This Pack will also help you get a better understanding of the:
 * [Remapper Docs](https://github.com/Swifter1243/ReMapper/blob/master/examples.md)
 
 __For any help with Noodle or Mapping issues please DM `Loopymtb#7958` or Join the noodle extensions [discord server](https://discord.gg/E2vQaBbYem).__
-___
 
-To start with this guild please go to the wiki found [here](https://github.com/Loopymtb/NoodleMappingGuild/wiki) <----
+### To start with this guild please go to the wiki found [here](https://github.com/Loopymtb/NoodleMappingGuild/wiki)
